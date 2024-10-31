@@ -10,6 +10,7 @@ module.exports = {
       user: "loneahsaan135@gmail.com",
       pass: "afpixhqgyzsoyljl",
     },
+    dbconnstring: 'mongodb://127.0.0.1:27017/codeshare'
   },
 };
 // from this email address the messages are sent
